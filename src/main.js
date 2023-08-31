@@ -3,6 +3,10 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 
+// 局部引入elementUI组件库
+import '@/assets/element.js'
+import 'amfe-flexible'
+
 Vue.config.productionTip = false
 
 new Vue({
