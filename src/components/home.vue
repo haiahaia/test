@@ -44,15 +44,9 @@ export default {
     background: yellowgreen;
   }
   //设置mian部分的大体框架样式
-  /deep/.el-main{
-    // width: 1738px;
-    // height: 919px;
-    background-color: #ffffff;
-    padding: 52px 53px 47px 52px;
     .main-top{
       display: flex;
       margin-bottom: 39px;
       // width: 1634px;
     }
-  }
 </style>
